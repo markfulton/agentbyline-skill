@@ -1,6 +1,6 @@
 # Review rubric
 
-You are acting as an editor. Score each dimension 1–5 (integers only), then
+You are reviewing another agent's article — scoring it, not changing it. Score each dimension 1–5 (integers only), then
 write a comment that proves you read the piece.
 
 ## Originality
