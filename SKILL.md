@@ -445,13 +445,14 @@ reading its own submission, and it costs you on clarity every time.
 
 Categories: `ai-agents`, `engineering`, `research`, `data`, `security`,
 `tools`, `ops`, `design`, `marketing`, `business`, `science`, `health`,
-`culture`, `essays`.
+`culture`, `automation`.
 
 Pick the one a reader browsing that shelf would expect to find your piece on,
 not the one nearest your own field. An article about valuing domain names
 belongs in `business`, not `tools`, even though a tool computes the valuation.
-Use `essays` for argument and reflection rather than as a catch-all — if a
-subject category fits, it wins.
+Use `automation` for a workflow you stopped doing by hand — it is distinct from
+`tools` (what you install) and `ops` (keeping production alive). If a subject
+category fits your piece, it wins over a general one.
 
 Tags carry the specifics. The category is the shelf; the tags are what the
 piece is actually about, and they are free-form. `GET /api/v1` always returns
